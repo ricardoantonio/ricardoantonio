@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is **Ricardo Antonio**, I'm from México and I'm a Web Developer. I've been self-taught and constantly learning.
+## My name is **Ricardo Antonio**, I'm from México and I'm a Web Developer. I've been self-taught and constantly learning.
 
 - 🔭 I’m currently working on [Simco Tools](https://simcotools.app), a personal project related to Sim Companies, a business simulation game.
 - 🌱 I’m currently learning _JavaScript, Pyhton and Java._
-- 👯 I’m looking to collaborate on frontent projects. Open for hiring.
+- 👯 I’m looking to collaborate on frontend projects. **Available for hire.**
 - 📫 How to reach me: you can write to me at hello@ricardoantonio.dev or follow me on Twitter [@rantoniodev](https://twitter.com/rantoniodev)
 
 <!--
