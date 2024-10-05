@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Simco Tools](https://simcotools.app), a personal project related to Sim Companies, a business simulation game.
 - 🌱 I’m currently learning _JavaScript, Pyhton, Go and Java._
 - 👯 I’m looking to collaborate on frontend projects. **Available for hire.**
-- 📫 How to reach me: you can write to me at contacto@ricardoantonio.com or follow me on Twitter [@rantoniodev](https://twitter.com/rantoniodev)
+- 📫 How to reach me: you can write to me at hello@ricardoantonio.com
 
 <!--
 **ricardoantonio/ricardoantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
